@@ -1,0 +1,2 @@
+# calc
+The exam task
